@@ -28,7 +28,8 @@ npm run dev
 Open http://localhost:3000
 
 ## 🎥 Demo Video
-[Upload your video link here - Loom / Drive]
+[Video Demo](https://github.com/apekshashetkar/pimsync/raw/main/demo.mp4)
+
 
 ## 🏆 Hackathon Submission
 Built for PIM Track - Solves real seller pain point of inventory sync across marketplaces.
