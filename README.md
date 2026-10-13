@@ -1,6 +1,8 @@
 # PimSync - Product Information Management System
 
-Centralized PIM dashboard to sync products across Shopify, Amazon, Etsy and prevent overselling.
+Integrates with WooCommerce, Shopify, Amazon via API - Single source of truth for product data
+
+Centralized PIM dashboard.
 
 ## 🚀 Live Demo
 https://github.com/apekshashetkar/pimsync
